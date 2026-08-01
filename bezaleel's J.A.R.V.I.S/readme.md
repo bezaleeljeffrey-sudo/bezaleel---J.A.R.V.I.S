@@ -62,13 +62,6 @@ Or on Windows, just run the included scripts in order:
 Licensed under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**
 — personal, non-commercial use only.
 
-This project is a fork of [MARK XXXIX-OR by FatihMakes](https://github.com/FatihMakes/Mark-XXXIX-OR),
-also licensed CC BY-NC 4.0. Full credit to FatihMakes for the original
-architecture, agent logic, memory system, and core engine (`main.py`,
-`agent/`, `memory/`, `core/`, `or_client.py` — unmodified here). Changes in
-this fork are limited to `ui.py` (rebranding) and the added setup/build
-scripts. See `LICENSE` for full terms.
-
 ---
 
 ## 👤 Author
