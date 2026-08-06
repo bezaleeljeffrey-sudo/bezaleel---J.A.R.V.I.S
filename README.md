@@ -21,10 +21,6 @@ playwright install
 python main.py
 Or on Windows, just run the included scripts in order:
 
-1_setup.bat — creates a venv and installs everything
-Add your API keys to config/api_keys.json (copy from config/api_keys.example.json)
-2_run.bat — launches the assistant
-3_build_exe.bat — packages it into a standalone .exe
 📋 Requirements
 Requirement	Details
 OS	Windows 10/11, macOS, or Linux
