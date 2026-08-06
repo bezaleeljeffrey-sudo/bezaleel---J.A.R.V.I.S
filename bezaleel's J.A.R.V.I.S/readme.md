@@ -36,14 +36,8 @@ cd bezaleel---J.A.R.V.I.S
 pip install -r requirements.txt
 playwright install
 python main.py
+
 ```
-
-Or on Windows, just run the included scripts in order:
-1. `1_setup.bat` — creates a venv and installs everything
-2. Add your API keys to `config/api_keys.json` (copy from `config/api_keys.example.json`)
-3. `2_run.bat` — launches the assistant
-4. `3_build_exe.bat` — packages it into a standalone `.exe`
-
 ---
 
 ## 📋 Requirements
